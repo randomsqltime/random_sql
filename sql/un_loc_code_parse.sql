@@ -3,7 +3,7 @@ unloc_cords;
 drop table 
 unloc_geo;
 
-
+--delete the create table to run as select
  create table unloc_cords as
 select *,
 
